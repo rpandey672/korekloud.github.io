@@ -1,3 +1,8 @@
 # korekloud.github.io
-git remote add origin https://github.com/rpandey672/korekloud.github.io.git
-git push -u origin master
+<!DOCTYPE html>
+<html>
+<body>
+<h1> Hello World </h1>
+<p>I’m hosted with Github Pages.</p>
+</body>
+</html>
